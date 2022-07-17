@@ -6,7 +6,7 @@ let processDate = function (date) {
 
 fetch('logica.json').then(response => response.json())
     .then(dates => {
-        let base_table = `<table class='table is-hoverable'>
+        let base_table = `<table class='table is-bordered is-hoverable'>
                             <thead>
                                 <tr><th>Corte</th><th>Fecha</th><th>Evaluación</th><th>%</th></tr>
                             </thead>
