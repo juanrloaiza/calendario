@@ -4,7 +4,7 @@ let processDate = function (date) {
     return `${String(date.getDate()).padStart(2, '0')}.${String(date.getMonth() + 1).padStart(2, '0')}`
 }
 
-fetch('calendario/logica.json').then(response => response.json())
+fetch('logica.json').then(response => response.json())
     .then(dates => {
         let base_table = `<table class='table is-hoverable'>
                             <thead>
