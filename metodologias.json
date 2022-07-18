@@ -1,0 +1,51 @@
+{
+    "1": [
+        {
+            "fecha-inicio": "2022.08.16",
+            "fecha-final": "2022.08.22",
+            "nombre": "Taller: Formalizaciones básicas",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.05.15",
+            "nombre": "Taller: Propiedades lógicas",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.09.10",
+            "nombre": "Parcial: Formalizaciones y propiedades lógicas",
+            "porcentaje": "15"
+        }
+    ],
+    "2": [
+        {
+            "fecha-inicio": "2022.08.16",
+            "fecha-final": "2022.08.22",
+            "nombre": "Taller: Cuantificación",
+            "porcentaje": "10"
+        },
+        {
+            "fecha-inicio": "2022.09.10",
+            "nombre": "Parcial: Cuantificación",
+            "porcentaje": "15"
+        }
+    ],
+    "3": [
+        {
+            "fecha-inicio": "2022.08.16",
+            "fecha-final": "2022.08.22",
+            "nombre": "Taller: Deducción natural",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.05.15",
+            "nombre": "Parcial: Deducción natural",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.09.10",
+            "nombre": "Examen final",
+            "porcentaje": "15"
+        }
+    ]
+}

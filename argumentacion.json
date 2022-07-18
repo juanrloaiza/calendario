@@ -1,0 +1,56 @@
+{
+    "1": [
+        {
+            "fecha-inicio": "2022.08.08",
+            "fecha-final": "2022.08.14",
+            "nombre": "Primer foro",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.08.22",
+            "nombre": "Taller: Pragmática",
+            "porcentaje": "10"
+        },
+        {
+            "fecha-inicio": "2022.08.28",
+            "nombre": "Reseña reconstructiva",
+            "porcentaje": "10"
+        }
+    ],
+    "2": [
+        {
+            "fecha-inicio": "2022.09.12",
+            "fecha-final": "2022.09.18",
+            "nombre": "Segundo foro",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.09.21",
+            "nombre": "Taller: Lógica",
+            "porcentaje": "10"
+        },
+        {
+            "fecha-inicio": "2022.10.02",
+            "nombre": "Reseña crítica",
+            "porcentaje": "10"
+        }
+    ],
+    "3": [
+        {
+            "fecha-inicio": "2022.10.31",
+            "fecha-final": "2022.11.06",
+            "nombre": "Tercer foro",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.11.16",
+            "nombre": "Taller: Falacias",
+            "porcentaje": "10"
+        },
+        {
+            "fecha-inicio": "2022.11.23",
+            "nombre": "Ensayo argumentativo",
+            "porcentaje": "35"
+        }
+    ]
+}
