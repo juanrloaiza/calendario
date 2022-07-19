@@ -1,51 +1,48 @@
 {
     "1": [
         {
-            "fecha-inicio": "2022.08.16",
-            "fecha-final": "2022.08.22",
-            "nombre": "Taller: Formalizaciones básicas",
-            "porcentaje": "5"
+            "fecha-inicio": "2022.08.19",
+            "nombre": "Taller: Temas de investigación y consulta de bibliografía",
+            "porcentaje": "12.5"
         },
         {
-            "fecha-inicio": "2022.05.15",
-            "nombre": "Taller: Propiedades lógicas",
-            "porcentaje": "5"
-        },
-        {
-            "fecha-inicio": "2022.09.10",
-            "nombre": "Parcial: Formalizaciones y propiedades lógicas",
-            "porcentaje": "15"
+            "fecha-inicio": "2022.08.26",
+            "nombre": "Taller: Manejo de bibliografía",
+            "porcentaje": "12.5"
         }
     ],
     "2": [
         {
-            "fecha-inicio": "2022.08.16",
-            "fecha-final": "2022.08.22",
-            "nombre": "Taller: Cuantificación",
-            "porcentaje": "10"
+            "fecha-inicio": "2022.09.20",
+            "nombre": "Taller: Métodos cuantitativos",
+            "porcentaje": "12.5"
         },
         {
-            "fecha-inicio": "2022.09.10",
-            "nombre": "Parcial: Cuantificación",
-            "porcentaje": "15"
+            "fecha-inicio": "2022.10.07",
+            "nombre": "Taller: Métodos cualitativos",
+            "porcentaje": "12.5"
         }
     ],
     "3": [
         {
-            "fecha-inicio": "2022.08.16",
-            "fecha-final": "2022.08.22",
-            "nombre": "Taller: Deducción natural",
-            "porcentaje": "5"
-        },
-        {
-            "fecha-inicio": "2022.05.15",
-            "nombre": "Parcial: Deducción natural",
-            "porcentaje": "5"
-        },
-        {
-            "fecha-inicio": "2022.09.10",
-            "nombre": "Examen final",
+            "fecha-inicio": "2022.10.16",
+            "nombre": "Revisión de literatura",
             "porcentaje": "15"
+        },
+        {
+            "fecha-inicio": "2022.11.04",
+            "nombre": "Borrador de anteproyecto de investigación",
+            "porcentaje": "5"
+        },
+        {
+            "fecha-inicio": "2022.11.08",
+            "nombre": "Co-evaluación de anteproyectos de investigación",
+            "porcentaje": "10"
+        },
+        {
+            "fecha-inicio": "2022.11.25",
+            "nombre": "Anteproyectos de investigación",
+            "porcentaje": "20"
         }
     ]
 }
